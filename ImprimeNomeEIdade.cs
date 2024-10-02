@@ -17,7 +17,7 @@ public class ImprimeNomeEIdade : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+         
     }
 
     void ImprimirNomeEIdade()

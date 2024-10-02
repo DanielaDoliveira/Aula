@@ -49,7 +49,7 @@ public class Jogador : MonoBehaviour
         {
             vida = vida - 1;
         
-            Debug.Log(vida);
+            Debug.Log(vida); 
         }
         else
         {
